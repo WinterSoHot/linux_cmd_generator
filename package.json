@@ -1,6 +1,6 @@
 {
   "name": "linux-cmd-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Linux 命令生成器 - 通过可视化界面生成 Linux 命令",
   "main": "electron/main.js",
   "scripts": {
