@@ -1,0 +1,1 @@
+Place app icon (icon.png) in this directory for Electron build
